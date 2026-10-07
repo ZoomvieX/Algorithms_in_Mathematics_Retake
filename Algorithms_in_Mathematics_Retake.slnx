@@ -1,0 +1,9 @@
+<Solution>
+  <Project Path="Algorithms_in_Mathematics_Retake/Algorithms_in_Mathematics_Retake.csproj" />
+  <Project Path="Change_of_Signs/Change_of_Signs.csproj" />
+  <Project Path="h-index/h-index.csproj" />
+  <Project Path="NumberSearch/NumberSearch.csproj" />
+  <Project Path="RobbingHouses/RobbingHouses.csproj" />
+  <Project Path="The_Knights_Tour_Problem/The_Knights_Tour_Problem.csproj" />
+  <Project Path="Two-pointer_Method/Two-pointer_Method.csproj" />
+</Solution>
